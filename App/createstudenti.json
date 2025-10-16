@@ -1,0 +1,212 @@
+[
+    {
+        "Grupa": "6609a9902b879c8eabb95798",
+        "Nume":"Popescu",
+        "Prenume":"Mihai",
+        "Data_inmatricularii":"2023-02-10T09:30:15.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 7.15,
+                "Bursa": false,
+                "Numar_restante":1
+            },
+
+        "Numar_matricol":3123
+
+    }, {
+    "Grupa": "6609a9902b879c8eabb95798",
+    "Nume":"Dumitrescu",
+    "Prenume":"Alexandra",
+    "Data_inmatricularii":"2023-02-10T10:01:23.000+00:00",
+    "Situatia_semestrului_anterior":
+        {
+            "Media_semestriala": 8.9,
+            "Bursa": false,
+            "Numar_restante": null
+        },
+
+    "Numar_matricol":3124
+    },
+    {
+    "Grupa": "6609a9902b879c8eabb95798",
+    "Nume":"Petrescu",
+    "Prenume":"Ioan Gabriel",
+    "Data_inmatricularii":"2023-02-10T10:15:14.000+00:00",
+    "Situatia_semestrului_anterior":
+        {
+            "Media_semestriala": 9.6,
+            "Bursa": true,
+            "Numar_restante": null
+        },
+
+    "Numar_matricol":3125
+    },
+    {
+        "Grupa": "6609a9902b879c8eabb95798",
+        "Nume":"Ionescu",
+        "Prenume":"Valentina Maria",
+        "Data_inmatricularii":"2023-02-10T09:15:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 9.8,
+                "Bursa": true,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":3126
+    },
+    {
+    "Grupa": "6609a9902b879c8eabb95798",
+    "Nume":"Georgescu",
+    "Prenume":"Ana",
+    "Data_inmatricularii":"2023-02-10T10:15:20.000+00:00",
+    "Situatia_semestrului_anterior":
+        {
+            "Media_semestriala": 7.4,
+            "Bursa": false,
+            "Numar_restante": 1
+        },
+
+    "Numar_matricol":3127
+    },
+    {
+        "Grupa": "6609a9902b879c8eabb95799",
+        "Nume":"Dumitrescu",
+        "Prenume":"Miruna",
+        "Data_inmatricularii":"2023-02-10T10:25:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 8.8,
+                "Bursa": true,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":2018
+        },
+        {
+        "Grupa": "6609a9902b879c8eabb95799",
+        "Nume":"Manolescu",
+        "Prenume":"David",
+        "Data_inmatricularii":"2023-02-10T10:25:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 9.5,
+                "Bursa": true,
+                "Numar_restante": null
+            },
+        "Numar_matricol":2019
+        },
+        {
+        "Grupa": "6609a9902b879c8eabb95799",
+        "Nume":"Dimulescu",
+        "Prenume":"Ioana",
+        "Data_inmatricularii":"2023-02-10T10:30:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 9,
+                "Bursa": true,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":2020
+        },
+        {
+        "Grupa": "6609a9902b879c8eabb95799",
+        "Nume":"Ivanescu",
+        "Prenume":"Andrei",
+        "Data_inmatricularii":"2023-02-10T10:46:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 6.7,
+                "Bursa": false,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":2021
+        },
+    {
+    "Grupa": "6609a9902b879c8eabb95799",
+    "Nume":"Iovanescu",
+    "Prenume":"Cezar",
+    "Data_inmatricularii":"2023-02-10T10:46:20.000+00:00",
+    "Situatia_semestrului_anterior":
+        {
+            "Media_semestriala": 8.5,
+            "Bursa": false,
+            "Numar_restante": null
+        },
+
+    "Numar_matricol":2022
+    },
+    {
+        "Grupa": "6609a9902b879c8eabb9579a",
+        "Nume":"Dobrinescu",
+        "Prenume":"Andreea",
+        "Data_inmatricularii":"2023-02-10T10:36:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 8.9,
+                "Bursa": false,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":4987
+    },
+    {
+        "Grupa": "6609a9902b879c8eabb9579a",
+        "Nume":"Mateescu",
+        "Prenume":"Ioana Maria",
+        "Data_inmatricularii":"2023-02-10T11:26:20.000+00:00",
+        "Situatia_semestrului_anterior":
+            {
+                "Media_semestriala": 9.2,
+                "Bursa": true,
+                "Numar_restante": null
+            },
+    
+        "Numar_matricol":4988
+        },
+        {
+            "Grupa": "6609a9902b879c8eabb9579a",
+            "Nume":"Diaconescu",
+            "Prenume":"Alexandru",
+            "Data_inmatricularii":"2023-02-10T11:46:29.000+00:00",
+            "Situatia_semestrului_anterior":
+                {
+                    "Media_semestriala": 7.4,
+                    "Bursa": false,
+                    "Numar_restante": 1
+                },
+        
+            "Numar_matricol":4989
+            },
+            {
+                "Grupa": "6609a9902b879c8eabb9579a",
+                "Nume":"Iliescu",
+                "Prenume":"Matei",
+                "Data_inmatricularii":"2023-02-10T11:47:15.000+00:00",
+                "Situatia_semestrului_anterior":
+                    {
+                        "Media_semestriala": 8.3,
+                        "Bursa": false,
+                        "Numar_restante": null
+                    },
+            
+                "Numar_matricol":4990
+                },
+                {
+                    "Grupa": "6609a9902b879c8eabb9579a",
+                    "Nume":"Marinescu",
+                    "Prenume":"Raul",
+                    "Data_inmatricularii":"2023-02-10T10:47:15.000+00:00",
+                    "Situatia_semestrului_anterior":
+                        {
+                            "Media_semestriala": 8.5,
+                            "Bursa": false,
+                            "Numar_restante": null
+                        },
+                
+                    "Numar_matricol":4991
+                    }   
+
+]

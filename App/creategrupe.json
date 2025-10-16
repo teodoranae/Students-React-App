@@ -1,0 +1,21 @@
+[
+    {
+        "Materii": ["Baze de date","Algebra Liniara si geometrie analitica","Limbaje formale si automate","Tehnici web","Structuri de date","Programare orientata pe obiecte","Limba engleza","Sport"],
+        "Nume_grupa": 213,     
+        "Ore_pe_saptamana": 32,
+        "Specializare": "Informatica"
+    },
+    {
+    "Materii": ["Logica matematica","Algebra II","Analiza matematica II","Geometrie II","Elemente de calcul stiintific","Limba engleza","Sport"],
+     "Nume_grupa": 313,     
+     "Ore_pe_saptamana": 32,
+     "Specializare": "Matematica"
+
+    },
+    {
+        "Materii": ["Matematici speciale","Calcul numeric","Arhitectura sistemelor de calcul","Grafica asistata de calculator","Programarea calculatoarelor II","Bazele electrotehnicii","Limba engleza","Sport"],
+        "Nume_grupa": 413,
+        "Ore_pe_saptamana": 32,
+        "Specializare": "Calculatoare si Tehnologia Informatiei"
+    }
+]
