@@ -11,7 +11,7 @@ This application is a school register platform to manage students attending thei
 
 - **View student information:** The user can view any student's grades, transfer status, whether they are granted a scholarship, as well as the number of failed classes in the previous semester. ![Edit student info](/Images/image4.png) 
 
-- **Manage student records easily:** The user can add (using a form) or delete (using a button) a student from the register, as the result of a transfer from or to another school, or just edit the student's details, such as their names.
+- **Manage student records easily:** The user can add or delete a student from the register, as the result of a transfer from or to another school, or just edit the student's details, such as their names.
 
 ![Add student](/Images/image5.png) 
 ![Delete student](/Images/image6.png) 
