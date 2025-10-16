@@ -15,7 +15,7 @@ app.use(bodyParser.json());
 
 const db=mongoose.connection;
 
-mongoose.connect('mongodb+srv://studentunibuc14:studentunibuc14@cluster0.hi8p693.mongodb.net/144TeodoraNae?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect('mongodb+srv:', {
     useNewUrlParser: true,
     useUnifiedTopology: true,                                   //conectarea la baza de date
     
