@@ -1,7 +1,7 @@
 # University 2nd Semester Student Register
 
 ## Short description
-This application is a school register platform to manage students attending their 2nd semester at university. 
+This application is a school register platform to manage students attending their 2nd semester at university. This is one of my first year projects.
 
 
 ## Features
