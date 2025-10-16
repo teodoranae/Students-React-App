@@ -6,7 +6,7 @@ This application is a school register platform to manage students attending thei
 
 ## Features
 
-- **View majors and subjects:** The user can view each major, the subjects on the second semester, as well as the list of enrolled students. 
+- **View majors and subjects:** The user can view each major, the subjects on the second semester, as well as the list of enrolled students. ![View Majors](/Images/image.png)
 
 - **View Student information:** The user can view any student's grades, whether they were transfered for the current semester, whether they are granted a scholarship, as well as the number of failed classes in the previous semester.
 The user can also add or delete a student from the register, as the result of a transfer from or to another school, or just edit the student's details, such as their names.
